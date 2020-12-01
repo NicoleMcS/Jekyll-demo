@@ -2,6 +2,8 @@
 
 Hi my name is Nicole and this is my first web page.
 
+![Image]('https://images.unsplash.com/photo-1601758176559-76c75ead317a?ixid=MXwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60')
+
 You can use the [editor on GitHub](https://github.com/NicoleMcS/Jekyll-demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
