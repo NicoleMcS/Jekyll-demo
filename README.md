@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
+
+Hi my name is Nicole and this is my first web page.
 
 You can use the [editor on GitHub](https://github.com/NicoleMcS/Jekyll-demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
